@@ -10,7 +10,7 @@
 * Побудувати діаграму варіантів використання (Use Case Diagram)
 * Побудувати діаграму послідовності (Sequence Diagram)
 * Побудувати діаграму діяльності (Activity Diagram)
-* Використати будь-який інструмент UML-моделювання (draw.io, Miro, lucidchart тощо)
+* Використати будь-який інструмент UML-моделювання (draw.io, Miro, lucidchart, Mermaidjs тощо)
 
 ## Acceptance criteria
 
@@ -20,10 +20,10 @@
     - Activity Diagram
 - Діаграми логічно пов’язані між собою та відповідають обраній предметній області
 - Коректно використані основні UML-нотації та позначення
-- Студент розуміє призначення кожної діаграми та може пояснити її зміст
-- Усі діаграми збережені у вигляді зображень або файлів проєкту
-- Опис роботи та діаграми оформлені в `README.md`
-- Надати посилання на виконанні діаграми
+- Здобувач розуміє призначення кожної діаграми та може пояснити її зміст
+- Усі діаграми збережені у вигляді зображень або файлів проєкту або варіант markdown + mermaidjs
+- Опис роботи та діаграми оформлені в markdown
+- Надати посилання на виконанні діаграми в projectPlan
 
 ## Usfull links
 
@@ -32,3 +32,5 @@
 [The ultimate guide to UML diagrams](https://miro.com/diagramming/what-is-a-uml-diagram/)
 
 [Master the basics of Lucidchart in 3 minutes](https://www.lucidchart.com/pages/tutorial/uml-use-case-diagram#section_4)
+
+[Mermaidjs](https://mermaid.js.org/)
